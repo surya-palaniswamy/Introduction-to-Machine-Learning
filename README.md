@@ -15,6 +15,10 @@ This repository is to be used as a guide once it is complete, but has started ou
 
 ## Algorithms
 ### Linear Regression
+<p align="center">
+  <img src="https://github.com/surya-palaniswamy/Introduction-to-Machine-Learning/blob/main/media/linear_regression/linear_regression.png" alt="Linear regression graph"/>
+</p>
+
 
 ## Visualisation
 
