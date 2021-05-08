@@ -5,6 +5,7 @@ This repository houses code implementations of basic Machine Learning Algorithms
 ## List of Contents
 - [Overview](#Overview)
 - [Algorithms](#Algorithms)
+  - [Linear Regression](#Linear-Regression)
 - [Visualisation](#Visualisation)
 - [Reference](#Reference)
 
@@ -13,6 +14,7 @@ This repository houses code implementations of basic Machine Learning Algorithms
 This repository is to be used as a guide once it is complete, but has started out as a learning project to better cement the theory behind the vairous Machine Learning Models. The theory and code have been learnt and uploaded based on the complete tutorial by Sentdex named Machine Learning with Python.
 
 ## Algorithms
+### Linear Regression
 
 ## Visualisation
 
