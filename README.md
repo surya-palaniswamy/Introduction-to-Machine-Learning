@@ -20,15 +20,16 @@ This repository is to be used as a guide once it is complete, but has started ou
   <br clear="centre"/>
   Linear Regression Graph
 </p>
-
-
+<br/>
+<br/>
 
 <p align="center">
   <img src="https://github.com/surya-palaniswamy/Introduction-to-Machine-Learning/blob/main/media/linear_regression/cost_function.png" alt="Cost Function"/>
   <br clear="centre"/>
   Cost Function
 </p>
-
+<br/>
+<br/>
 
 
 <p align="center">
@@ -36,7 +37,8 @@ This repository is to be used as a guide once it is complete, but has started ou
   <br clear="centre"/>
   Gradient Descent
 </p>
-
+<br/>
+<br/>
 ## Visualisation
 
 ## Reference
