@@ -11,7 +11,7 @@ This repository houses code implementations of basic Machine Learning Algorithms
 
 ## Overview
 
-This repository is to be used as a guide once it is complete, but has started out as a learning project to better cement the theory behind the vairous Machine Learning Models. The theory and code have been learnt and uploaded based on the complete tutorial by Sentdex named Machine Learning with Python.
+This repository is to be used as a guide once it is complete, but has started out as a learning project to better cement the theory behind the vairous Machine Learning Models.
 
 ## Algorithms
 ### Linear Regression
@@ -43,4 +43,4 @@ This repository is to be used as a guide once it is complete, but has started ou
 ## Visualisation
 
 ## Reference
-- Sentdex: [Machine Learning with Python](https://youtube.com/playlist?list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v)
+- ML Cheat Sheet: [Linear Regression](https://ml-cheatsheet.readthedocs.io/en/latest/linear_regression.html)
