@@ -40,9 +40,10 @@ This repository is to be used as a guide once it is complete, but has started ou
 </p>
 <br/>
 <br/>
+
 ### Logistic Regression
 <p align="center">
-  <img src="https://github.com/surya-palaniswamy/Introduction-to-Machine-Learning/blob/main/media/logistic_regression/hypothesis_function.png" alt="Sigmoid graph"/>
+  <img src="https://github.com/surya-palaniswamy/Introduction-to-Machine-Learning/blob/main/media/logistic_regression/sigmoid_graph.png" alt="Sigmoid graph"/>
   <br clear="centre"/>
   Sigmoid graph
 </p>
