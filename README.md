@@ -80,3 +80,4 @@ This repository is to be used as a guide once it is complete, but has started ou
 
 ## Reference
 - ML Cheat Sheet: [Linear Regression](https://ml-cheatsheet.readthedocs.io/en/latest/linear_regression.html)
+- ML Cheat Sheet: [Logistic Regression](https://ml-cheatsheet.readthedocs.io/en/latest/logistic_regression.html)
