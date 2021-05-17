@@ -106,6 +106,7 @@ This repository is to be used as a guide once it is complete, but has started ou
 
 <p align="center">
   <img src="https://github.com/surya-palaniswamy/Introduction-to-Machine-Learning/blob/main/media/knn/knn_4.webp" alt="Effects of different K values"/>
+  <img src="https://github.com/surya-palaniswamy/Introduction-to-Machine-Learning/blob/main/media/knn/knn_3.webp" alt="Effects of different K values"/>
   <br clear="centre"/>
   Effects of different K values
 </p>
