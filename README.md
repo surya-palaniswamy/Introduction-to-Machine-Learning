@@ -7,6 +7,7 @@ This repository houses code implementations of basic Machine Learning Algorithms
 - [Algorithms](#Algorithms)
   - [Linear Regression](#Linear-Regression)
   - [Logistic regression](#Logistic-Regression)
+  - [K-Nearest Neighbour](#K-Nearest-Neighbour)
 - [Visualisation](#Visualisation)
 - [Reference](#Reference)
 
@@ -76,8 +77,45 @@ This repository is to be used as a guide once it is complete, but has started ou
 <br/>
 <br/>
 
+### K-Nearest Neighbour
+<p align="center">
+  <img src="https://github.com/surya-palaniswamy/Introduction-to-Machine-Learning/blob/main/media/knn/knn_1.png" alt="KNN Graph"/>
+  <br clear="centre"/>
+  KNN graph
+</p>
+<br/>
+<br/>
+
+
+<p align="center">
+  <img src="https://github.com/surya-palaniswamy/Introduction-to-Machine-Learning/blob/main/media/knn/knn_2.png" alt="KNN prediction with k = 5"/>
+  <br clear="centre"/>
+  KNN prediction with k = 5
+</p>
+<br/>
+<br/>
+
+
+<p align="center">
+  <img src="https://github.com/surya-palaniswamy/Introduction-to-Machine-Learning/blob/main/media/knn/knn_algo.png" alt="Basis of KNN"/>
+  <br clear="centre"/>
+  Basis of KNN; Euclidean Distance formula
+</p>
+<br/>
+<br/>
+
+<p align="center">
+  <img src="https://github.com/surya-palaniswamy/Introduction-to-Machine-Learning/blob/main/media/knn/knn_4.webp" alt="Effects of different K values"/>
+  <br clear="centre"/>
+  Effects of different K values
+</p>
+<br/>
+<br/>
+
+
 ## Visualisation
 
 ## Reference
 - ML Cheat Sheet: [Linear Regression](https://ml-cheatsheet.readthedocs.io/en/latest/linear_regression.html)
 - ML Cheat Sheet: [Logistic Regression](https://ml-cheatsheet.readthedocs.io/en/latest/logistic_regression.html)
+- [K-Nearest Neighbour](https://www.javatpoint.com/k-nearest-neighbor-algorithm-for-machine-learning)
